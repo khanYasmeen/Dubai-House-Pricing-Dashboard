@@ -59,5 +59,5 @@ So This Walk through will help the bussiness analyze trend, Peak Hrs, monthly Sa
     
 ### 5.	Screenshots / Demos
 Show what the dashboard looks like.
-Example: ![Dashboard Preview](https://github.com/khanYasmeen/Supply-Chain-Analytics-Dashboard/blob/main/Supplu%20chain%20output.png)
+Example: ![Dashboard Preview](https://github.com/khanYasmeen/Dubai-House-Pricing-Dashboard/blob/main/Dashboard%20ss.png)
 
